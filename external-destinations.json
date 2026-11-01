@@ -1,0 +1,30 @@
+[
+  {
+    "route": "/en/privacy-center/",
+    "destination": "https://rsg-privacy.my.onetrust.com/webform/88a74764-3bff-44db-8c5d-2c4b9e2f6794/604db4c0-598e-4c0d-87de-92088a111c16"
+  },
+  {
+    "route": "/en/partnerships/oceanrace/",
+    "destination": "https://content.redseaglobal.com/theoceanrace/index.html"
+  },
+  {
+    "route": "/en/partnerships/warner-bros-discovery/",
+    "destination": "https://content.redseaglobal.com/discover-the-red-sea-with-warner-bros-discovery/index.html"
+  },
+  {
+    "route": "/en/partnerships/warner-bros-discovery/desert-in-bloom/",
+    "destination": "https://content.redseaglobal.com/a-desert-in-bloom/en/index.html"
+  },
+  {
+    "route": "/en/responsible-development/bloomberg-media-studios-partnership/",
+    "destination": "https://content.redseaglobal.com/en/regenerative-journey/index.html"
+  },
+  {
+    "route": "/en/responsible-development/planet/the-a-z-of-regenerative-tourism/",
+    "destination": "https://content.redseaglobal.com/en/the-a-z-of-regenerative-tourism/index.html"
+  },
+  {
+    "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+    "destination": "https://content.redseaglobal.com/en/jewar-competition/index.html"
+  }
+]

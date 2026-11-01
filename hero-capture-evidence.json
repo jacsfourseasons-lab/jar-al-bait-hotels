@@ -1,0 +1,74 @@
+[
+  {
+    "side": "reference",
+    "active": "Invest with Us",
+    "h": 900,
+    "scroll": 0,
+    "w": 1440,
+    "x": 712.3333740234375,
+    "y": 842.5
+  },
+  {
+    "side": "implementation",
+    "active": "Invest with Us",
+    "h": 900,
+    "scroll": 0,
+    "w": 1440,
+    "x": 712.3333740234375,
+    "y": 842.5
+  },
+  {
+    "side": "reference",
+    "active": "Invest with Us",
+    "h": 1080,
+    "scroll": 0,
+    "w": 1920,
+    "x": 952.3333740234376,
+    "y": 1022.5
+  },
+  {
+    "side": "implementation",
+    "active": "Invest with Us",
+    "h": 1080,
+    "scroll": 0,
+    "w": 1920,
+    "x": 952.3333740234376,
+    "y": 1022.5
+  },
+  {
+    "side": "reference",
+    "active": "Invest with Us",
+    "h": 1024,
+    "scroll": 0,
+    "w": 768,
+    "x": 376.3333435058594,
+    "y": 983.5
+  },
+  {
+    "side": "implementation",
+    "active": "Invest with Us",
+    "h": 1024,
+    "scroll": 0,
+    "w": 768,
+    "x": 376.3333435058594,
+    "y": 983.5
+  },
+  {
+    "side": "reference",
+    "active": "Invest with Us",
+    "h": 844,
+    "scroll": 0,
+    "w": 390,
+    "x": 187.33334350585935,
+    "y": 803.5
+  },
+  {
+    "side": "implementation",
+    "active": "Invest with Us",
+    "h": 844,
+    "scroll": 0,
+    "w": 390,
+    "x": 187.33334350585935,
+    "y": 803.5
+  }
+]

@@ -1,0 +1,12 @@
+import fs from'node:fs/promises';import{load}from'cheerio';
+const manifest=JSON.parse(await fs.readFile('asset-manifest.json','utf8')),routes=JSON.parse(await fs.readFile('routes.json','utf8'));
+const placeholder='/assets/unavailable-image.svg';await fs.writeFile('public'+placeholder,'<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000"><rect width="1600" height="1000" fill="#f2efe8"/><text x="800" y="500" text-anchor="middle" fill="#75613d" font-family="sans-serif" font-size="28">Original image unavailable</text></svg>');
+for(const a of manifest)a.usedBy=[];
+for(const r of routes){const p='source/pages/'+r.file,$=load(await fs.readFile(p,'utf8'),null,false);let raw='';try{raw=await fs.readFile('../../work/reference/'+r.file,'utf8');}catch{}
+ for(const a of manifest.filter(a=>/\.mp4$/.test(a.sourceUrl))){a.kind='video';const pathname=new URL(a.sourceUrl).pathname;if(!a.localPath&&(raw.includes(pathname)||raw.includes(decodeURI(pathname)))){a.usedBy.push({route:r.localRoute,component:'video'});a.replacement={type:'same-page still image; playback disabled because original video could not be downloaded',poster:$('video[poster]').first().attr('poster')||$('img[src^="/assets/"]').first().attr('src')||null};}}
+ $('[src],[poster]').each((_,e)=>{for(const key of['src','poster']){const u=$(e).attr(key);if(!u)continue;const row=manifest.find(a=>a.sourceUrl===u);if(e.tagName==='img'&&row&&!row.localPath){row.localPath=placeholder;row.replacement={type:'explicit unavailable-image placeholder; original asset could not be retrieved'};$(e).attr(key,placeholder);}const local=$(e).attr(key);for(const a of manifest.filter(a=>a.localPath===local)){const component=$(e).closest('[class*="rsg-"]').attr('class')||e.tagName;const use={route:r.localRoute,component};if(!a.usedBy.some(x=>x.route===use.route&&x.component===use.component))a.usedBy.push(use);}}});
+ await fs.writeFile(p,$.html());
+}
+for(const a of manifest){if(a.sourceUrl.includes('test%20subtitles'))a.replacement={type:'unavailable source test subtitle track omitted'};a.component=[...new Set(a.usedBy.map(u=>u.component))].join('; ')||(a.kind==='stylesheet'?'shared styles':a.kind==='font'?'shared typography':'shared or metadata asset');}
+await fs.writeFile('asset-manifest.json',JSON.stringify(manifest,null,2));await fs.writeFile('asset-limitations.json',JSON.stringify(manifest.filter(a=>a.replacement||(!a.localPath&&a.kind!=='fragment')),null,2));
+console.log(`Recorded usage for ${manifest.length} source assets`);

@@ -1,0 +1,65 @@
+[
+  {
+    "feature": "header search",
+    "results": 11
+  },
+  {
+    "feature": "news carousel",
+    "active": "Red Sea Global achieves major carbon reduction milestone"
+  },
+  {
+    "feature": "destination selection",
+    "pressed": "true"
+  },
+  {
+    "feature": "expandable introduction",
+    "expanded": "true"
+  },
+  {
+    "feature": "newsletter validation",
+    "invalid": 3
+  },
+  {
+    "feature": "newsletter success",
+    "text": "Demo submission received. No real subscription has been created."
+  },
+  {
+    "feature": "leadership expansion",
+    "expanded": "true"
+  },
+  {
+    "feature": "leadership profile",
+    "dialog": 1,
+    "name": "John Pagano"
+  },
+  {
+    "feature": "media tabs",
+    "selected": "true"
+  },
+  {
+    "feature": "archive sort",
+    "label": "Least recent"
+  },
+  {
+    "feature": "contact demo",
+    "status": "Demo submission received. Your message has not been sent to Red Sea Global."
+  },
+  {
+    "feature": "newsletter error and retry",
+    "text": "Something went wrong\n\nPlease try again in a moment.\n\nTry Again"
+  },
+  {
+    "feature": "newsletter retry reset",
+    "formVisible": true
+  },
+  {
+    "feature": "full body-content search",
+    "query": "vertically integrated",
+    "results": 12
+  },
+  {
+    "feature": "hero playback synchronization",
+    "pausedLabel": "Play background video",
+    "resumedLabel": "Pause background video"
+  }
+]

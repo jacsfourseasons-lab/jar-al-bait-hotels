@@ -1,0 +1,4 @@
+# Cloudflare Pages response headers for the hosted client preview.
+# Keeps the recreation out of search engines; anyone with the link can still view it.
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive

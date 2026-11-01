@@ -1,0 +1,1975 @@
+[
+  {
+    "sourceUrl": "https://www.redseaglobal.com/etc.clientlibs/redsea-rsc/clientlibs/clientlib-site/resources/images/icon-play-circle.svg",
+    "localPath": "/assets/icon-play-circle.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "local SVG icon reconstruction"
+    },
+    "error": "unavailable 202",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/etc.clientlibs/redsea-rsc/clientlibs/clientlib-site/resources/images/icon-volume-max.svg",
+    "localPath": "/assets/icon-volume-max.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "local SVG icon reconstruction"
+    },
+    "error": "unavailable 202",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/etc.clientlibs/redsea-rsc/clientlibs/clientlib-site/css/%23clip",
+    "localPath": null,
+    "kind": "fragment",
+    "replacement": {
+      "type": "internal SVG fragment; not a downloadable asset"
+    },
+    "error": "unavailable 403",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/etc.clientlibs/redsea-rsc/clientlibs/clientlib-site/resources/images/icon-maximize.svg",
+    "localPath": "/assets/icon-maximize.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "local SVG icon reconstruction"
+    },
+    "error": "unavailable 202",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/etc.clientlibs/redsea-rsc/clientlibs/clientlib-site/resources/images/icon-minimize.svg",
+    "localPath": "/assets/icon-minimize.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "local SVG icon reconstruction"
+    },
+    "error": "unavailable 202",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/5ce97407-8a9e-39b6-940d-655e8cb709fc/17-11-53-15-531697-GCC-AEO-Accreditation-July-2025-Hero-jpg",
+    "localPath": "/assets/0d073dfc-17-11-53-15-531697-gcc-aeo-accreditation-july-2025-hero.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/certifications/rsg-achieves-gcc-authorized-economic-operator-accreditation.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812897127/17-11-53-15-531697-gcc-aeo-accreditation-july-2025-hero-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/certifications/rsg-achieves-gcc-authorized-economic-operator-accreditation/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/certifications/rsg-achieves-gcc-authorized-economic-operator-accreditation/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/bf287dce-13eb-d7fd-73cb-314968c64520/16-10-52-2-537307-TBH-ISO-Certified-Thumbnail-jpg",
+    "localPath": "/assets/7203ef67-16-10-52-2-537307-tbh-iso-certified-thumbnail.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/certifications/turtle-bay-hotel-achieves-iso-45001-certification.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813785243/16-10-52-2-537307-tbh-iso-certified-thumbnail-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/certifications/turtle-bay-hotel-achieves-iso-45001-certification/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/certifications/turtle-bay-hotel-achieves-iso-45001-certification/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/b9c8e359-fb10-441c-bbfe-ba5c2aa7e752/RSG-EN-RGB-HORIZONTAL-jpg",
+    "localPath": "/assets/1ca5b538-rsg-en-rgb-horizontal.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/certifications/rsg-listed-on-top-40-most-sustainable-companies-in-mena-2025.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812970741/rsg-en-rgb-horizontal-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/certifications/rsg-listed-on-top-40-most-sustainable-companies-in-mena-2025/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/certifications/rsg-listed-on-top-40-most-sustainable-companies-in-mena-2025/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/075f0c75-03ea-564c-1d1b-2a828457d6df/7-22-50-21-433832-Botanica-Nursery-is-ISO-45001-Certified-jpg",
+    "localPath": "/assets/5d161c4e-7-22-50-21-433832-botanica-nursery-is-iso-45001-certified.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/certifications/botanica-receives-iso-45001-certification.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812983665/7-22-50-21-433832-botanica-nursery-is-iso-45001-certified-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/certifications/botanica-receives-iso-45001-certification/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/certifications/botanica-receives-iso-45001-certification/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/7d4ba40b-8cfe-5d16-3518-2e6052c02442/12-15-56-21-666833-C3-ISO-Certification-HERO-jpg",
+    "localPath": "/assets/c09d96ff-12-15-56-21-666833-c3-iso-certification-hero.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/certifications/c3-achieves-three-iso-certifications-for-operations.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812675958/12-15-56-21-666833-c3-iso-certification-hero-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/certifications/c3-achieves-three-iso-certifications-for-operations/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/certifications/c3-achieves-three-iso-certifications-for-operations/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/475ff256-74b3-e1a6-aa9c-16f600b571d4/1748531645954-jpeg",
+    "localPath": "/assets/5c3be17c-1748531645954-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/organization/rsg-wins-green-logistics-initiative-of-the-year.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812491285/1748531645954-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/organization/rsg-wins-green-logistics-initiative-of-the-year/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/organization/rsg-wins-green-logistics-initiative-of-the-year/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/c8424eca-7cf7-f7fb-dc20-2ca494d2a35b/1739987910346-jpeg",
+    "localPath": "/assets/837dbaab-1739987910346.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/organization/group-head-of-security-recognized-as-industry-leader.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812501510/1739987910346-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/organization/group-head-of-security-recognized-as-industry-leader/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/organization/group-head-of-security-recognized-as-industry-leader/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/0e5046f3-6e18-89fd-7b36-db53b5954743/1750799979346-jpeg",
+    "localPath": "/assets/64ac2e62-1750799979346-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/sustainability/the-regeneration-journey-film-series-wins-sustainability-marketing-award.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812972059/1750799979346-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/sustainability/the-regeneration-journey-film-series-wins-sustainability-marketing-award/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/65060c7d-6046-015d-5f6e-141011a6ebc4/destination-underwater4-1500x844-jpg",
+    "localPath": "/assets/584efe6c-destination-underwater4-1500x844-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/sustainability/beneath-the-surface-the-fight-for-corals-documentary-earns-multiple-film-festival-honors.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813038036/destination-underwater4-1500x844-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/sustainability/beneath-the-surface-the-fight-for-corals-documentary-earns-multiple-film-festival-honors/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/sustainability/beneath-the-surface-the-fight-for-corals-documentary-earns-multiple-film-festival-honors/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/7752352b-cbed-0261-a30b-6eb864b70cd7/1728818911733-jpeg",
+    "localPath": "/assets/816b2d40-1728818911733-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/sustainability/our-gceso-ranked-on-forbes-me-top-sustainability-leaders-list.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812565246/1728818911733-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/sustainability/our-gceso-ranked-on-forbes-me-top-sustainability-leaders-list/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/sustainability/our-gceso-ranked-on-forbes-me-top-sustainability-leaders-list/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/782c0b10-b4fc-abc0-195b-d9274cbbe5a7/1723044605255-jpeg",
+    "localPath": "/assets/9659dfeb-1723044605255.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/sustainability/rsg-recognized-as-2024-leed-power-builder.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812891063/1723044605255-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/sustainability/rsg-recognized-as-2024-leed-power-builder/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/sustainability/rsg-recognized-as-2024-leed-power-builder/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/bf1b5b8e-1bf8-9f80-c33b-294da53cf064/1717755769302-jpeg",
+    "localPath": "/assets/328343ea-1717755769302-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsg-awarded-bim-organization-of-the-year.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813686274/1717755769302-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-awarded-bim-organization-of-the-year/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-awarded-bim-organization-of-the-year/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/fa36e261-c2a3-9e5f-be7c-a8a0c50b468e/1701601909958-jpeg",
+    "localPath": "/assets/be0088df-1701601909958.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsi-honored-as-world-s-leading-new-airport.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813558385/1701601909958-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsi-honored-as-world-s-leading-new-airport/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsi-honored-as-world-s-leading-new-airport/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/8e593cfb-fcd7-84eb-13a7-105b8a95118f/Data-And-AI-Excellence-Award-001-jpeg",
+    "localPath": "/assets/223dd512-data-and-ai-excellence-award-001.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsg-honored-for-excellence-in-technology-and-data-management.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813926393/data-and-ai-excellence-award-001-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-honored-for-excellence-in-technology-and-data-management/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-honored-for-excellence-in-technology-and-data-management/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/04dd2b5b-a5cf-4c57-2e26-a1d52df9f2da/RSG-and-Zain-TR-Summit-png",
+    "localPath": "/assets/35e2c810-rsg-and-zain-tr-summit.png.webp",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsg-and-partner-zain-ksa-win-best-green-technology.coreimg.png/structure/_jcr_content/root/hero/item0/img/1775813843661/rsg-and-zain-tr-summit-png.png"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-and-partner-zain-ksa-win-best-green-technology/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-and-partner-zain-ksa-win-best-green-technology/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img",
+    "processing": {
+      "format": "WebP",
+      "quality": 95,
+      "maxWidth": 2400,
+      "originalSha256": "d237717501bab00d7d793ed2269e5ed18591813d06a6db4ea2d5586975b18ae7",
+      "originalBytes": 1508801,
+      "optimizedBytes": 298026
+    }
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/e033d64c-5c59-fa0b-162e-93a0ae32f5ac/1697543564497-jpeg",
+    "localPath": "/assets/9fe1d356-1697543564497.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsi-secures-multiple-awards-for-innovative-smart-luggage-management-system.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813379078/1697543564497-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsi-secures-multiple-awards-for-innovative-smart-luggage-management-system/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsi-secures-multiple-awards-for-innovative-smart-luggage-management-system/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/d9dd1909-9a93-9b1d-5517-803b2acbf98f/1701676326572-jpeg",
+    "localPath": "/assets/5e5525e2-1701676326572.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsg-and-partner-zain-ksa-receive-climate-action-initiative-of-the-year-award.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813789547/1701676326572-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-and-partner-zain-ksa-receive-climate-action-initiative-of-the-year-award/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-and-partner-zain-ksa-receive-climate-action-initiative-of-the-year-award/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/def8579e-8ef9-764e-3992-32cc2989675e/N1-jpg",
+    "localPath": "/assets/34fc8b45-n1-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/technology/rsg-first-global-asset-owner-to-be-awarded-bsi-kitemark.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812852966/n1-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-first-global-asset-owner-to-be-awarded-bsi-kitemark/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/technology/rsg-first-global-asset-owner-to-be-awarded-bsi-kitemark/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/a7f94473-32d2-3b81-060f-9e9f268fb7ed/1746100651440-jpeg",
+    "localPath": "/assets/06bfb05d-1746100651440-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/development/amaala-staff-village-wins-bim-project-of-the-year-at-construction-technology-awards.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813866656/1746100651440-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/development/amaala-staff-village-wins-bim-project-of-the-year-at-construction-technology-awards/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/development/amaala-staff-village-wins-bim-project-of-the-year-at-construction-technology-awards/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/ee9d66fd-66d8-fdc8-c69b-7f8119aa42e7/1705943977047-jpeg",
+    "localPath": "/assets/4a774938-1705943977047-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/development/the-red-sea-destination-wins-sustainable-project-of-the-year.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813585828/1705943977047-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/development/the-red-sea-destination-wins-sustainable-project-of-the-year/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/development/the-red-sea-destination-wins-sustainable-project-of-the-year/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/d265dd76-4472-b6e2-c486-6afec433a47f/1732716429846-jpeg",
+    "localPath": "/assets/6f3afeb1-1732716429846-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/development/rsg-honored-at-landscape-middle-east-awards-2024-for-excellence-in-sustainable-design.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813783919/1732716429846-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/development/rsg-honored-at-landscape-middle-east-awards-2024-for-excellence-in-sustainable-design/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/development/rsg-honored-at-landscape-middle-east-awards-2024-for-excellence-in-sustainable-design/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/db0ba7c1-ffa8-1ba5-550b-256d565804bf/1732624446013-jpeg",
+    "localPath": "/assets/0f886d74-1732624446013-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/development/the-red-sea-resorts-transforming-hospitality.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812739984/1732624446013-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/development/the-red-sea-resorts-transforming-hospitality/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/development/the-red-sea-resorts-transforming-hospitality/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/2a014b84-be93-68d4-bc93-fd840b30c828/1744737778254-jpeg",
+    "localPath": "/assets/a3c1eae5-1744737778254-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/amaala-triple-bay-marina-village-wins-landscape-project-of-the-year.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812510790/1744737778254-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/amaala-triple-bay-marina-village-wins-landscape-project-of-the-year/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/1efc3389-48b0-c914-c5db-a9fc58f4a9fa/1750340761289-jpeg",
+    "localPath": "/assets/ab9e5305-1750340761289-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/intercontinental-the-red-sea-resort-wins-best-hotel-design-concept.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812636655/1750340761289-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/intercontinental-the-red-sea-resort-wins-best-hotel-design-concept/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/2f7552cb-7a3c-f73e-6239-761bbae9bc58/1738069690733-jpeg",
+    "localPath": "/assets/15ffcff0-1738069690733.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/lighting-design-excellence-recognized-at-six-senses-southern-dunes.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813693556/1738069690733-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/lighting-design-excellence-recognized-at-six-senses-southern-dunes/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/design/lighting-design-excellence-recognized-at-six-senses-southern-dunes/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/698efeb7-eaf3-80df-55fb-0c3d1d9fce46/BNC-0569-1920x1280-jpg",
+    "localPath": "/assets/3b384ec5-bnc-0569-1920x1280.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/six-senses-amaala-wins-master-plan-of-the-year.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812991344/bnc-0569-1920x1280-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/six-senses-amaala-wins-master-plan-of-the-year/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/design/six-senses-amaala-wins-master-plan-of-the-year/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/f24f4965-7884-eb8c-537c-ef3a5eb3df23/GGXccUYXQAAvNyK-jpeg",
+    "localPath": "/assets/6e11344e-ggxccuyxqaavnyk-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/the-red-sea-dark-skies-commitment-earns-design-award.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813100983/ggxccuyxqaavnyk-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/the-red-sea-dark-skies-commitment-earns-design-award/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/design/the-red-sea-dark-skies-commitment-earns-design-award/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/34f088a1-c905-2908-2665-0eee4a1c204c/1734860334676-jpeg",
+    "localPath": "/assets/8e0bae1d-1734860334676-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/the-st-regis-red-sea-resort-wins-interior-design-award.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775812644470/1734860334676-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/the-st-regis-red-sea-resort-wins-interior-design-award/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/design/the-st-regis-red-sea-resort-wins-interior-design-award/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/a656599b-3282-ecc3-8871-85550ffa71f4/1725966221491-jpeg",
+    "localPath": "/assets/ffeb16d0-1725966221491-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/grand-hyatt-the-red-sea-recognized-for-cutting-edge-bim-tech.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813024461/1725966221491-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/grand-hyatt-the-red-sea-recognized-for-cutting-edge-bim-tech/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/190034aa-c635-d8f7-8b3e-a4a939c35ec4/1717755772936-jpeg",
+    "localPath": "/assets/77d340c7-1717755772936.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/awards/design/rsg-wins-bim-organization-of-the-year.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1775813279987/1717755772936-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/awards/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/awards/design/rsg-wins-bim-organization-of-the-year/",
+        "component": "image rsg-hero-section-item__img"
+      },
+      {
+        "route": "/en/awards/design/rsg-wins-bim-organization-of-the-year/",
+        "component": "img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img; img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/careers/EN%20Hayah%20wellness%20program.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/4df511e6-1l4a5404.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/careers/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/governance/GRC_GroundBreakers_EN.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/07853db1-1l4a5757--1-.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/governance/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/test-assets/test%20subtitles%20en.vtt",
+    "localPath": null,
+    "kind": "asset",
+    "replacement": {
+      "type": "unavailable source test subtitle track omitted"
+    },
+    "error": "unavailable 403",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/test-assets/test%20subtitles%20ar.vtt",
+    "localPath": null,
+    "kind": "asset",
+    "replacement": {
+      "type": "unavailable source test subtitle track omitted"
+    },
+    "error": "unavailable 403",
+    "usedBy": [],
+    "component": "shared or metadata asset"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/leadership.coreimg.png/1775814183718/rsg-thumb-wide.png",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 202",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/bba3e40c-5425-1dcc-84d7-eeb17461bd0e/DSC-3731-jpg",
+    "localPath": "/assets/d3e1bf23-dsc-3731-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/protecting-coral-reefs-innovative-techniques-at-red-sea-global.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767885155278/dsc-3731-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/protecting-coral-reefs-innovative-techniques-at-red-sea-global/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/8e770276-264a-af44-8599-18bc25008a03/20241102-163925-6-png",
+    "localPath": "/assets/a598afef-20241102-163925-6-png.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/driving-the-future-of-green-logistics-how-electric-delivery-vans-are-transforming-last-mile-deliveries-at-rsg.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767888149713/20241102-163925-6-png.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/driving-the-future-of-green-logistics-how-electric-delivery-vans-are-transforming-last-mile-deliveries-at-rsg/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/448f3a89-d5cc-0891-1326-f3dcf2221f14/1L5A9435-jpg",
+    "localPath": "/assets/4a17153f-1l5a9435-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/centralized-purchasing-driving-efficiency-sustainability-and-local-empowerment.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767879139753/1l5a9435-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/centralized-purchasing-driving-efficiency-sustainability-and-local-empowerment/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/62eb285f-8d04-9c26-eecb-07a99a89bf45/World-Tourism-Day-jpeg",
+    "localPath": "/assets/41e154f2-world-tourism-day-jpeg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/world-tourism-day-a-saudi-vision-for-sustainable-development.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767891870470/world-tourism-day-jpeg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/world-tourism-day-a-saudi-vision-for-sustainable-development/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/92b6f3a6-759e-64d9-1542-b1bc53a9691c/0C9A8982-jpg",
+    "localPath": "/assets/e11e2841-0c9a8982-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/the-art-of-personalization-at-the-red-sea.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767881109868/0c9a8982-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/the-art-of-personalization-at-the-red-sea/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/4df0db19-9e2a-afa3-f907-ab2fc416a2db/Shura-hero-1-jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/21d9caa8-6b9c-adf8-05be-48bc397e3caf/Boat-jpg",
+    "localPath": "/assets/bea8845d-boat-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/red-sea-global-achieves-landmark-in-marine-transport-safety.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767889756901/boat-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/red-sea-global-achieves-landmark-in-marine-transport-safety/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/34d82c71-6a0d-cce1-05d1-94968c3626ea/Sooty-falcon-1-jpg",
+    "localPath": "/assets/bf06203f-sooty-falcon-1-jpg.jpeg",
+    "kind": "asset",
+    "replacement": {
+      "type": "accessible rendition of same named original asset",
+      "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/media-center/blog/sooty-falcons-pioneering-conservation-efforts-at-red-sea-global.coreimg.jpeg/structure/_jcr_content/root/hero/item0/img/1767881743735/sooty-falcon-1-jpg.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/media-center/blog/sooty-falcons-pioneering-conservation-efforts-at-red-sea-global/",
+        "component": "image rsg-hero-section-item__img"
+      }
+    ],
+    "component": "rsg-card__img; image rsg-hero-section-item__img"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/47b1c2a9-fcf2-7826-6f43-c70bceeca077/Red-Sea-Global-awards-major-infrastructure-contract-worth-nearly-SAR-one-billion-for-Amaala1-jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/671836ed-8deb-fa04-94fa-bbd1a00547a0/main4309-jpeg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/b34c67c4-2b36-d3d0-cc82-c9d974f4aa51/Red-Sea-Global-awards-major-infrastructure-contract-worth-nearly-SAR-one-billion-for-Amaala1-jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/d39f25ad-1902-65ca-0cc5-1fe5ab8b55a3/3894471-1456434356-png",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/fcc3eb1d-19b3-39c1-a149-9e932e990891/main-gif",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/5f064a11-3a45-20b4-6d11-51dcf3ab0109/main-jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/migration/44b80158-94ae-7383-ecf0-89878c376005/main-jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/destination/amaala/amaala-video.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/fb87b447-amaala-lifestyle-8.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/portfolio/amaala/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/amaala-residences/amaala_residences-hero_15sec_1.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/765cfe61-andar-resi2.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/portfolio/projects/amaala-residences/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/projects/desert-rock/desert-rock-announcment-no-logo.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/ce89dcfc-Desert-Rock17.jpg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/portfolio/projects/desert-rock-resort/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/projects/shebara-island/Sheybarah%20Island%20Horizontal%20Without%20logo.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/139707f3-shebara.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/portfolio/projects/shebara-resort/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/projects/shebara-island/Shebara%20Vessels%20Arrival%20to%20KSA%20No%20Logo.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/139707f3-shebara.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/portfolio/projects/shebara-resort/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/projects/shebara-island/AR%20-%20Bubbles%20from%20the%20Sea1.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/139707f3-shebara.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/portfolio/projects/shebara-resort/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/responsible-development/(JUNE)%20%20Year%20ender%202024%201080_1.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/22e076e9-dji-20240921094936-0316-d.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/regenerative-tourism/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/responsible-development/En-%20thinking-naturally.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/e3856e58-dji-20251013000924-0013-d.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/responsible-development/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/responsible-development/people.coreimg.png/1775814183718/rsg-thumb-wide.png",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 202",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/amaala/experiences/x-wellness.jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/training-and-education/elite-graduate-program/elite-jp-announcement-en.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/b27cabed-1l4a7586.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/training-education/elite-graduate-program/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/training-and-education/hospitality-pioneers/hospitality-pioneers-video.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/101237b9-vtp-hero3.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/training-education/hospitality-pioneers-program/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/training-and-education/red-sea-scholarship/scholarship-video-en.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/5e8abc23-scholarship8.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/training-education/rsg-scholarship/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/training-and-education/vocational-training-program/6th-edition/Final%20VTP%20CTA%202026.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/20111879-1l5a8721.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/training-education/vocational-training-program/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/vendor-registration/vendor-registration-RSG_Korea.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/072d0d70-ebd4ca972cde67d5475da981c055967ebeb9b91c.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/vendor-registration/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/vendor-registration/vendor-registration-RSG_bahrain.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/072d0d70-ebd4ca972cde67d5475da981c055967ebeb9b91c.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/vendor-registration/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/vendor-registration/vendor-registration-RSG_Japan.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/072d0d70-ebd4ca972cde67d5475da981c055967ebeb9b91c.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/vendor-registration/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/vendor-registration/vendor-registration-RSG-Turkey.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/072d0d70-ebd4ca972cde67d5475da981c055967ebeb9b91c.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/vendor-registration/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/vendor-registration/vendor-registration-RSG-Qatar.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/072d0d70-ebd4ca972cde67d5475da981c055967ebeb9b91c.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/vendor-registration/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/redsea-rsc/en/governance/internal-control-toolkit.coreimg.png/1775814183718/rsg-thumb-wide.png",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 202",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/partnerships/al-ahli-club-partnership/v360sec-RedSeaGlobal-AlAlhi-hero.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/e10afc42-alahli-hero.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/partnerships/alahli/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/redsea-rsc/common/partnerships/al-ahli-club-partnership/Al%20Ahli%20Shirt%20Reveal%20Web%202.mp4",
+    "localPath": null,
+    "kind": "video",
+    "replacement": {
+      "type": "same-page still image; playback disabled because original video could not be downloaded",
+      "poster": "/assets/e10afc42-alahli-hero.jpeg"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/partnerships/alahli/",
+        "component": "video"
+      }
+    ],
+    "component": "video"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/red-sea/en/master/resort/nujuma/gallery/gallery-nujuma-exterior.jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/red-sea/en/master/before-you-visit/the-airport-and-flights/images/currency-1.jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 404",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/red-sea/en/master/resort/desert-rock/details/Desert_Rock_002@2x.jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://www.redseaglobal.com/content/dam/red-sea/en/master/offers/saudi-national-day-offers/Six-Senses-National-Day.jpg",
+    "localPath": "/assets/unavailable-image.svg",
+    "kind": "asset",
+    "replacement": {
+      "type": "explicit unavailable-image placeholder; original asset could not be retrieved"
+    },
+    "error": "unavailable 403",
+    "usedBy": [
+      {
+        "route": "/en/leadership/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/media-center/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/",
+        "component": "image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+      },
+      {
+        "route": "/en/services/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/governance/internal-control-toolkit/",
+        "component": "rsg-bubble-grid-item__img"
+      },
+      {
+        "route": "/en/responsible-development/reports/report-2023/",
+        "component": "rsg-card__img"
+      },
+      {
+        "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+        "component": "rsg-card__img"
+      }
+    ],
+    "component": "rsg-bubble-grid-item__img; rsg-card__img; image mod--dark mod--border-light rsg-stats-section-item__icon mod--icon-m"
+  },
+  {
+    "sourceUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson",
+    "localPath": "/assets/red-sea-coast.svg",
+    "kind": "image",
+    "component": "shared or metadata asset",
+    "replacement": {
+      "type": "local Mercator coastline rendering; visual styling differs from the original Mapbox map"
+    },
+    "usedBy": []
+  }
+]

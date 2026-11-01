@@ -1,0 +1,92 @@
+[
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 767
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 768
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 1023
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 1024
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 1439
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 1440
+  },
+  {
+    "route": "/en/",
+    "error": null,
+    "overflow": 0,
+    "width": 1920
+  },
+  {
+    "route": "/en/about-us/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/leadership/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/services/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/portfolio/amaala/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/media-center/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/media-center/news/raffles-the-red-sea-opens-expanding-rsg-hospitality-portfolio/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "route": "/en/contact-us/",
+    "error": null,
+    "overflow": 0,
+    "width": 390
+  }
+]

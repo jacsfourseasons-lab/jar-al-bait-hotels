@@ -1,0 +1,178 @@
+[
+  {
+    "route": "/en/about-us/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Who We Are"
+    ],
+    "overflow": -15,
+    "title": "About Red Sea Global"
+  },
+  {
+    "route": "/en/leadership/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Leadership"
+    ],
+    "overflow": -15,
+    "title": "Meet The Leadership Team | Red Sea Global"
+  },
+  {
+    "route": "/en/services/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Our Services"
+    ],
+    "overflow": -15,
+    "title": "Our Services | Red Sea Global"
+  },
+  {
+    "route": "/en/subsidiaries/security-services-company/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Red Sea Security Services Company",
+      "Overview",
+      "Key Facts",
+      "4 seconds",
+      "9.7 minutes",
+      "32,000 km²",
+      "Key Responsibilities & Services",
+      "Security Operations",
+      "Scope",
+      "Core Services",
+      "Licensing",
+      "FAQS",
+      "Explore Our Subsidiaries",
+      "Get in touch",
+      "News & Updates"
+    ],
+    "overflow": -15,
+    "title": "Securing RSG Destination | Red Sea Security Services Company"
+  },
+  {
+    "route": "/en/portfolio/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Our Portfolio"
+    ],
+    "overflow": -15,
+    "title": "Our Portfolio | Red Sea Global"
+  },
+  {
+    "route": "/en/portfolio/amaala/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "AMAALA"
+    ],
+    "overflow": -15,
+    "title": "AMAALA: A Luxury Tourism Destination | Red Sea Global"
+  },
+  {
+    "route": "/en/portfolio/projects/red-sea-residences/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Red Sea Residences"
+    ],
+    "overflow": -15,
+    "title": "Residences Blending Luxury and Sustainability | Red Sea Global"
+  },
+  {
+    "route": "/en/responsible-development/planet/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Planet"
+    ],
+    "overflow": -15,
+    "title": "Protecting Biodiversity & Responsible Development | Red Sea Global"
+  },
+  {
+    "route": "/en/investment/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Investment"
+    ],
+    "overflow": -15,
+    "title": "Investment Opportunities | Red Sea Global"
+  },
+  {
+    "route": "/en/training-education/vocational-training-program/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Red Sea Vocational Training Program"
+    ],
+    "overflow": -15,
+    "title": "Red Sea Vocational Training Program | Red Sea Global"
+  },
+  {
+    "route": "/en/media-center/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "News & Updates"
+    ],
+    "overflow": -15,
+    "title": "Media Center | Red Sea Global"
+  },
+  {
+    "route": "/en/media-center/news/raffles-the-red-sea-opens-expanding-rsg-hospitality-portfolio/",
+    "broken": [],
+    "error": null,
+    "headings": [],
+    "overflow": -15,
+    "title": "Raffles The Red Sea Opens on Shura Island | Red Sea Global"
+  },
+  {
+    "route": "/en/awards/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Awards"
+    ],
+    "overflow": -15,
+    "title": "View Our Awards | Red Sea Global"
+  },
+  {
+    "route": "/en/contact-us/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Contact us",
+      "Subscribe to receive our latest updates, exclusive offers, and personalized content delivered straight to you."
+    ],
+    "overflow": -15,
+    "title": "Contact Us"
+  },
+  {
+    "route": "/en/search/?search=amaala",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Search"
+    ],
+    "overflow": -15,
+    "title": "Search"
+  },
+  {
+    "route": "/en/privacy-center/",
+    "broken": [],
+    "error": null,
+    "headings": [
+      "Privacy Center Red Sea Global",
+      "Privacy Center",
+      "Privacy Center",
+      "News & Updates"
+    ],
+    "overflow": -15,
+    "title": "Privacy Policy | Red Sea Global"
+  }
+]

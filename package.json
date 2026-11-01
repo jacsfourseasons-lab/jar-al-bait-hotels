@@ -1,0 +1,21 @@
+{
+  "name": "red-sea-global-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "deploy:amplify": "node scripts/deploy-amplify.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0",
+    "sharp": "^0.34.5",
+    "swiper": "11.2.10"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

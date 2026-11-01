@@ -1,0 +1,927 @@
+[
+  {
+    "route": "/en/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/about-us/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/careers/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/contact-us/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/governance/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/investment/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/leadership/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/rsg-completes-modernization-of-alwajh-international-airport/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/the-red-sea-becomes-first-ever-destination-in-saudi-arabia-to-achieve-earthcheck-sustainable-destinations-certification/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/the-red-sea-edition-named-on-conde-nast-travelers-2026-hot-list/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/red-sea-global-unveils-red-sea-health-with-first-facility-opening-at-new-airport/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-achieves-remarkable-milestone-of-6-5m-lost-time-injury-free-hours-at-shebara/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/rsg-achieves-major-carbon-reduction-milestone/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/amaala/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/adrena/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/amaala-residences/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/desert-rock-resort/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/red-sea-international-airport/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/red-sea-residences/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/shebara-resort/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/thuwal/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/privacy-center/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/privacy-policy/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/regenerative-tourism/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/six-senses-resort/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/turtle-bay-village/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/the-red-sea/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/people/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/planet/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/reports/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/reports/report-2024/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/search/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/services/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/amrak-facilities-management-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/botanica/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/coastal-contracting-company-C3/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/fire-rescue-services-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/fly-red-sea/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/mobility-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/red-sea-global-hospitality/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/reef/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/regenerative-escapes-tourism-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/security-services-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/sports-entertainment-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/supply-chain-logistics-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/subsidiaries/utilities-company/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/terms-and-conditions/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/training-education/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/training-education/elite-graduate-program/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/training-education/english-for-tourism/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/training-education/hospitality-pioneers-program/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/training-education/rsg-scholarship/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/training-education/vocational-training-program/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/vendor-registration/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/botanica-receives-iso-45001-certification/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/botanica-secures-triple-iso-certification-strengthening-operational-excellence/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/c3-achieves-three-iso-certifications-for-operations/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/record-breaking-leed-certifications/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/red-sea-international-airport-receives-level-1-airport-carbon-accreditation-certificate/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/rsg-achieves-gcc-authorized-economic-operator-accreditation/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/rsg-listed-on-top-40-most-sustainable-companies-in-mena-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/shura-island-resorts-intercontinental-the-red-sea-resort-and-the-red-sea-edition-earn-leed-platinum-certification/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/amaala-triple-bay-marina-village-wins-landscape-project-of-the-year/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/corallium-wins-world-landscape-architecture-award-for-concept-design/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/grand-hyatt-the-red-sea-recognized-for-cutting-edge-bim-tech/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/intercontinental-the-red-sea-resort-wins-best-hotel-design-concept/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/lighting-design-excellence-recognized-at-six-senses-southern-dunes/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/rsg-wins-bim-organization-of-the-year/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/six-senses-amaala-wins-master-plan-of-the-year/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/the-red-sea-dark-skies-commitment-earns-design-award/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/design/the-st-regis-red-sea-resort-wins-interior-design-award/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/amaala-staff-village-wins-bim-project-of-the-year-at-construction-technology-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/Incredible-Honors-at-the-Big-5-Global-Impact-Awards-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/certifications/turtle-bay-hotel-achieves-iso-45001-certification/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/meed-projects-awards-recognize-shebara-and-amaala-employee-village/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/rsg-achieves-major-wins-at-the-reds-industry-choice-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/rsg-honored-at-landscape-middle-east-awards-2024-for-excellence-in-sustainable-design/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/shebara-honored-at-construction-week-middle-east-awards-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/shebara-recognized-as-the-regional-meed-project-of-the-year-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/the-red-sea-destination-wins-sustainable-project-of-the-year/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/development/the-red-sea-resorts-transforming-hospitality/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/desert-rock-featured-in-prix-versailles-most-beautiful-hotels-2026/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/nujuma-ritz-carlton-reserve-recognized-on-forbes-travel-guides-2025-edge-list/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/rsg-hospitality-resorts-sweep-luxury-campaign-category-at-athar-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/rsg-hospitality-sets-new-benchmark-with-highest-nps-score-for-guest-satisfaction-in-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/rsg-receives-its-inaugural-five-star-rating-in-forbes-travel-guides-star-award/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/the-red-sea-earns-the-worlds-first-destination-wide-verification-with-forbes-travel-guide/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/the-red-sea-edition-named-on-conde-nast-travelers-2026-hot-list/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/the-red-sea-edition-voted-as-the-world-best-new-hotel-opening-for-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/hospitality/the-red-sea-resorts-named-among-worlds-most-exceptional-stays-by-michelin/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/gceo-named-among-leaders-shaping-future-of-real-estate/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/gceo-recognized-among-forbes-me-top-travel-and-tourism-leaders/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/group-head-of-security-recognized-as-industry-leader/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-achieves-consecutive-distinction-at-the-british-safety-council-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-education-leadership-recognized-at-future-hospitality-summit/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-honored-at-the-performance-excellence-forum-and-awards-gala/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-secures-dual-wins-at-pif-partners-series-pmo-forum/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-wins-green-logistics-initiative-of-the-year/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-wins-silver-at-global-fm-awards-of-excellence-2026/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/beneath-the-surface-the-fight-for-corals-documentary-earns-multiple-film-festival-honors/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/beneath-the-surface-the-fight-for-corals-wins-best-documentary/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/bloomberg-campaign-showcases-regenerative-tourism-to-the-world/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/gceso-named-a-sustainability-leader-by-forbes-me/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/our-gceso-ranked-on-forbes-me-top-sustainability-leaders-list/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/rsg-recognized-as-2024-leed-power-builder/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/the-first-destination-in-saudi-arabia-to-achieve-earthcheck-sustainable-destinations-certification/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/the-regeneration-journey-film-series-wins-sustainability-marketing-award/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/group-head-of-technology-wins-leadership-award/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsg-and-partner-zain-ksa-receive-climate-action-initiative-of-the-year-award/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsg-and-partner-zain-ksa-win-best-green-technology/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsg-awarded-bim-organization-of-the-year/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsg-first-global-asset-owner-to-be-awarded-bsi-kitemark/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/sustainability/rsg-recognized-for-environmental-and-community-volunteering/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsg-honored-for-excellence-in-technology-and-data-management/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsg-recognized-for-development-and-construction-technology-leadership/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsi-honored-as-world-s-leading-new-airport/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/technology/rsi-secures-multiple-awards-for-innovative-smart-luggage-management-system/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/experiences/water-sports/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/governance/internal-control-toolkit/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/centralized-purchasing-driving-efficiency-sustainability-and-local-empowerment/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/driving-the-future-of-green-logistics-how-electric-delivery-vans-are-transforming-last-mile-deliveries-at-rsg/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/experiencing-the-red-sea-beyond-sight/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/harnessing-digital-skills-for-a-sustainable-future/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/protecting-coral-reefs-innovative-techniques-at-red-sea-global/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/red-sea-global-achieves-landmark-in-marine-transport-safety/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/sooty-falcons-pioneering-conservation-efforts-at-red-sea-global/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/the-art-of-personalization-at-the-red-sea/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/blog/world-tourism-day-a-saudi-vision-for-sustainable-development/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-and-oracle-collaborate-to-train-5-000-saudi-nationals-over-the-next-six-months/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-celebrates-dual-recognition-at-pif-pmo-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-issues-its-first-annual-community-development-report-empowering-people-enriching-places/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-leads-community-driven-mangrove-planting-initiative-to-celebrate-international-mangrove-day/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-publishes-destination-resilience-report/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-rounds-up-community-development-initiatives-empowering-the-red-sea-destination-residents/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-secures-mostadam-certification-of-211-buildings-across-its-destinations/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/shura-island-the-beating-heart-of-the-red-sea-featured-on-saudi-post-spl-commemorative-stamps/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/the-red-sea-destination-among-saudi-hotels-honored-with-michelin-key-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/amaala-marina-shura-marina/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/AMAALA-Yacht-Club-opens-putting-the-Red-Sea-on-the-global-yachting-map/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/desert-rock-becomes-first-hotel-in-saudi-arabia-to-receive-3-michelin-keys/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/raffles-the-red-sea-opens-expanding-rsg-hospitality-portfolio/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/Red-sea-global-and-DrSulaiman-Al-Habib-Medical-Services-Group-open-Red-Sea-Hospital/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/Red-Sea-Global-announces-the-opening-of-Jayasom-Wellness-Resort-advancing-AMAALAs-wellness-vision/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/rsg-increases-destination-connectivity-with-Etihad-Airways/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/rsg-unveils-nammos-resort-amaala/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/the-red-sea-becomes-first-ever-destinatiion-in-saudi-arabia-to-achieve-earthcheck-sustainable-destinations-certification/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/yachting-network-launches-red-sea/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/alahli/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/oceanrace/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/t1/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/warner-bros-discovery/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/warner-bros-discovery/desert-in-bloom/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/portfolio/projects/shura-island/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/bloomberg-media-studios-partnership/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/people/jewar/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/planet/the-a-z-of-regenerative-tourism/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/reports/report-2020/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/reports/report-2021/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/reports/report-2022/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/reports/report-2023/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/testing/demo-dec/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/-/media-center/red-sea-global-unveils-jeddah-consolidation-center-to-deliver-on-sustainable-supply-chain-promise/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/-/media-center/zain-ksa-and-red-sea-global-win-best-green-technology-at-telecom-review-leaders-summit-2023/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/awards/organization/rsg-earns-distinction-at-british-safety-council-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/people/jewar/jewar-art-competition/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/people/jewar/jewar-collective/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/responsible-development/people/jewar/jewar-competition-for-founding-day-2025/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/warner-bros-discovery/beneath-the-surface/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/w/media-center/red-sea-global-commits-to-accessible-tourism-for-all/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/w/media-center/red-sea-global-earns-record-breaking-leed-certifications/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/w/media-center/the-red-sea-destination-among-saudi-hotels-honored-with-michelin-key-awards/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/w/red-sea-global-announces-establishment-of-the-red-sea-national-academy/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/red-sea-global-earns-record-breaking-leed-certifications/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/insights/red-sea-global-unveils-jeddah-consolidation-center-to-deliver-on-sustainable-supply-chain-promise/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/red-sea-global-commits-to-accessible-tourism-for-all/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/red-sea-global-announces-establishment-of-the-red-sea-national-academy/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/media-center/news/zain-ksa-and-red-sea-global-win-best-green-technology-at-telecom-review-leaders-summit-2023/",
+    "status": 200,
+    "hasHtml": true
+  },
+  {
+    "route": "/en/partnerships/warner-bros-discovery/beneath-the-surface/",
+    "status": 200,
+    "hasHtml": true
+  }
+]
