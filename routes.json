@@ -2450,5 +2450,17 @@
     "bodyClass": "page basicpage",
     "headerClass": "header",
     "file": "en__-__media-center__zain-ksa-and-red-sea-global-win-best-green-technology-at-telecom-review-leaders-summit-202.html"
+  },
+  {
+    "localRoute": "/en/media-center/smart-hospitality-technology-central-reservations-saudi-hotels/",
+    "file": "en__media-center__smart-hospitality-technology-central-reservations-saudi-hotels.html",
+    "title": "Smart Hospitality & Booking KSA | Jar Al Bait Hotels",
+    "description": "Discover how Jar Al Bait Hotel Group combines central reservations, digital hospitality solutions, and guest care across Makkah and Al Qunfudhah in KSA.",
+    "bodyClass": "page basicpage",
+    "styles": [
+      "/assets/fddb1931-clientlib-base.lc-202609291724-lc.min.css",
+      "/assets/546bb7f6-clientlib-site.min.eb79e8521c820e7406aba0b899de6bbc.css",
+      "/assets/8f71aae5-clientlib-site.lc-202609291724-lc.min.css"
+    ]
   }
 ]

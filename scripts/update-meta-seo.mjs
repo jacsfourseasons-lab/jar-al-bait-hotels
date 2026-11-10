@@ -103,6 +103,12 @@ const CORE_META = {
     titleAr: 'الشراكات الاستراتيجية | مجموعة فنادق جار البيت',
     descAr: 'ابنِ شراكات فندقية وتجارية طويلة الأمد مع مجموعة فنادق جار البيت في مكة المكرمة والقنفذة وجدة والرياض ومختلف مناطق المملكة العربية السعودية.'
   },
+  '/en/media-center/smart-hospitality-technology-central-reservations-saudi-hotels/': {
+    titleEn: 'Smart Hospitality & Booking KSA | Jar Al Bait Hotels',
+    descEn: 'Discover how Jar Al Bait Hotel Group combines central reservations, digital hospitality solutions, and guest care across Makkah and Al Qunfudhah in KSA.',
+    titleAr: 'الضيافة الذكية والحجوزات المركزية | فنادق جار البيت',
+    descAr: 'اكتشف كيف تجمع مجموعة فنادق جار البيت بين أنظمة الحجوزات المركزية والحلول التقنية الفندقية وخدمة الضيوف في مكة المكرمة والقنفذة بالمملكة.'
+  },
   '/en/media-center/makkah-hotel-accommodation-al-aziziyah-jar-al-bait/': {
     titleEn: 'Makkah Al Aziziyah Hotel Guide | Jar Al Bait Hotels',
     descEn: 'Stay at Jar Al Bait Hotel in Al Aziziyah, Makkah. Jar Al Bait Hotel Group offers spacious rooms, family suites, and Umrah pilgrim hospitality.',

@@ -2,6 +2,146 @@ import fs from 'node:fs/promises';
 
 export const BLOGS = [
   {
+    slug: 'smart-hospitality-technology-central-reservations-saudi-hotels',
+    route: '/en/media-center/smart-hospitality-technology-central-reservations-saudi-hotels/',
+    file: 'en__media-center__smart-hospitality-technology-central-reservations-saudi-hotels.html',
+    categoryKey: 'operations',
+    categoryEn: 'Operations & Vision 2030',
+    categoryAr: 'التشغيل الفندقي ورؤية 2030',
+    locationEn: 'Makkah, Jeddah, Riyadh & Al Qunfudhah, KSA',
+    locationAr: 'مكة المكرمة، جدة، الرياض والقنفذة، السعودية',
+    dateEn: '11 November 2026',
+    dateAr: '11 نوفمبر 2026',
+    readTimeEn: '6 Min Read',
+    readTimeAr: '6 دقائق للقراءة',
+    badgesEn: ['Smart Hospitality KSA', 'Central Reservations', 'Guest Experience'],
+    badgesAr: ['الضيافة الذكية بالسعودية', 'الحجوزات المركزية', 'تجربة الضيوف'],
+    titleEn: 'Smart Hospitality & Central Reservations in Saudi Arabia: Powering Seamless Guest Stays',
+    titleAr: 'الضيافة الذكية والحجوزات المركزية في المملكة العربية السعودية: الارتقاء بتجربة الضيوف',
+    metaTitleEn: 'Smart Hospitality & Booking KSA | Jar Al Bait Hotels',
+    metaTitleAr: 'الضيافة الذكية والحجوزات المركزية | فنادق جار البيت',
+    excerptEn: 'Explore how Jar Al Bait Hotel Group integrates digital reservation systems, B2B booking technology through Oz for Solutions, and guest-first service across Makkah Al Mukarramah and Al Qunfudhah.',
+    excerptAr: 'استكشف كيف تدمج مجموعة فنادق جار البيت أنظمة الحجوزات الرقمية، وحلول تقنية الضيافة عبر شركة أوز للحلول، ومعايير العناية الفائقة بالضيوف في مكة المكرمة والقنفذة.',
+    featuredImage: '/assets/jab-about-hero.webp',
+    featuredImageAltEn: 'Smart hospitality management and central reservations in Saudi Arabia by Jar Al Bait Hotel Group',
+    featuredImageAltAr: 'الإدارة الفندقية الذكية ومنظومة الحجوزات المركزية في السعودية من مجموعة فنادق جار البيت',
+    inlineImage1: '/assets/jab-company-oz-solutions.webp',
+    inlineImage1AltEn: 'Digital hospitality technology and reservation systems powered by Oz for Solutions',
+    inlineImage1AltAr: 'أنظمة التقنية الفندقية والحجوزات الرقمية بدعم من شركة أوز للحلول',
+    inlineImage1CaptionEn: 'Integrated digital platforms and centralized booking workflows connect domestic and international travellers with Jar Al Bait properties across Saudi Arabia.',
+    inlineImage1CaptionAr: 'منصات رقمية متكاملة وأنظمة حجز مركزية تربط المسافرين من داخل المملكة وخارجها بفنادق مجموعة جار البيت في مختلف مناطق السعودية.',
+    inlineImage2: '/assets/jab-track-anwar-al-aseel.webp',
+    inlineImage2AltEn: 'High-capacity hotel operations and seamless guest arrival management in Makkah',
+    inlineImage2AltAr: 'عمليات تشغيلية فندقية عالية السعة وإدارة سلسة لوصول الضيوف في مكة المكرمة',
+    inlineImage2CaptionEn: 'Coordinated reservation management and front-desk technology ensure smooth check-in even during peak Umrah and Hajj seasons in Makkah Al Mukarramah.',
+    inlineImage2CaptionAr: 'يسهم التكامل بين إدارة الحجوزات المركزية وأنظمة الاستقبال الحديثة في ضمان سلاسة إجراءات الوصول حتى خلال ذروة مواسم العمرة والحج في مكة المكرمة.',
+    quoteEn: '“Modern Saudi hospitality thrives when advanced reservation technology works hand in hand with authentic Arabian warmth—making every booking, arrival, and stay effortless.”',
+    quoteAr: '«تزدهر الضيافة السعودية الحديثة عندما تتكامل تقنيات الحجز المتطورة مع كرم الضيافة العربية الأصيلة، لتصبح كل خطوة من الحجز وحتى الإقامة تجربة ميسّرة ومميزة.»',
+    quoteAuthorEn: 'Jar Al Bait Hotel Management & Operations Group',
+    quoteAuthorAr: 'مجموعة جار البيت لإدارة وتشغيل الفنادق',
+    ctaHeadingEn: 'Streamline Your Hotel Bookings or Property Distribution in Saudi Arabia',
+    ctaHeadingAr: 'طوّر منظومة حجوزاتك الفندقية أو قنوات التوزيع والتسويق في المملكة',
+    ctaTextEn: 'Whether you are booking stays across Makkah and Al Qunfudhah or seeking a central reservation and management partner for your hotel asset, Jar Al Bait Hotel Group is ready to assist.',
+    ctaTextAr: 'سواء كنت ترغب في حجز إقامتك في مكة المكرمة والقنفذة أو تبحث عن شريك متخصص في الإدارة والحجوزات المركزية لفندقك، فإن مجموعة فنادق جار البيت جاهزة لخدمتك.',
+    ctaPrimaryLabelEn: 'Connect With Our Team',
+    ctaPrimaryLabelAr: 'تواصل مع فريقنا الآن',
+    ctaPrimaryHref: '/en/contact-us/',
+    ctaSecondaryLabelEn: 'Explore Our Services',
+    ctaSecondaryLabelAr: 'استكشف خدماتنا الفندقية',
+    ctaSecondaryHref: '/en/services/',
+    sections: [
+      {
+        h2En: 'Digital Transformation in Saudi Arabia’s Hospitality & Hotel Sector',
+        h2Ar: 'التحول الرقمي في قطاع الفنادق والضيافة في المملكة العربية السعودية',
+        paragraphs: [
+          {
+            en: 'As travel across the Kingdom of Saudi Arabia accelerates under Vision 2030, guests and B2B travel partners expect instant availability, transparent pricing, and frictionless arrival experiences. From families booking weekend stays on the Red Sea coast to international tour operators coordinating thousands of pilgrim rooms in Makkah Al Mukarramah, technology now sits at the core of hospitality excellence.',
+            ar: 'مع التسارع الكبير الذي يشهده قطاع السياحة والسفر في المملكة العربية السعودية في ظل رؤية 2030، يتطلع الضيوف وشركاء السفر إلى سرعة تأكيد الحجوزات، ووضوح الأسعار، وسلاسة إجراءات الوصول. وسواء تعلق الأمر بالعائلات الباحثة عن إقامة ساحلية على البحر الأحمر أو بشركات العمرة التي تنسق آلاف الغرف في مكة المكرمة، فقد أصبحت التقنية الفندقية ركيزة أساسية للتميز.'
+          },
+          {
+            en: 'At Jar Al Bait Hotel Management & Operations Group, our ',
+            ar: 'وفي مجموعة جار البيت لإدارة وتشغيل الفنادق، ترتكز ',
+            linkTextEn: 'central reservations and hospitality marketing services',
+            linkTextAr: 'خدمات الحجوزات المركزية والتسويق الفندقي لدينا',
+            linkHref: '/en/services/',
+            afterEn: ' are supported by specialized technology capabilities through ',
+            afterAr: ' على قدرات تقنية متخصصة تقودها ',
+            link2TextEn: 'Oz for Solutions and our diversified group companies',
+            link2TextAr: 'شركة أوز للحلول ومنظومة شركاتنا التابعة',
+            link2Href: '/en/subsidiaries/',
+            after2En: ', creating a unified digital backbone for every managed property.',
+            after2Ar: '، مما يوفر بنية رقمية موحدة تدعم كافة الفنادق المدارة ضمن مجموعتنا.'
+          }
+        ],
+        imageIndex: 1
+      },
+      {
+        h2En: 'How Central Reservations Elevate Guest Satisfaction and Occupancy',
+        h2Ar: 'كيف تسهم منظومة الحجوزات المركزية في رفع نسب الإشغال ورضا الضيوف؟',
+        paragraphs: [
+          {
+            en: 'A centralized reservation architecture benefits both travellers and hotel owners. For guests staying at ',
+            ar: 'تحقق منظومة الحجوزات المركزية قيمة مزدوجة للضيوف وملاك الفنادق على حد سواء؛ فللضيوف المقيمين في ',
+            linkTextEn: 'our hotels in Makkah Al Mukarramah and Al Qunfudhah',
+            linkTextAr: 'فنادقنا في مكة المكرمة ومحافظة القنفذة',
+            linkHref: '/en/portfolio/',
+            afterEn: ', it guarantees accurate room allocation, rapid confirmation for special family or group requests, and coordinated pre-arrival communication.',
+            afterAr: '، تضمن المنظومة دقة تخصيص الغرف، وسرعة تأكيد الطلبات الخاصة بالعائلات والمجموعات، والتنسيق المسبق قبل الوصول.'
+          }
+        ],
+        bulletsEn: [
+          'Real-Time Multi-Channel Distribution: Synchronizing room inventory across direct booking desks, B2B travel agencies, and global distribution channels.',
+          'Dynamic Seasonal Yield Management: Optimizing occupancy and average daily rates (ADR) across Ramadan, Hajj, Umrah peaks, and coastal holiday seasons.',
+          'Streamlined Group & Corporate Desks: Fast rooming-list integration for Umrah delegations, government missions, and corporate events.',
+          'Guest Experience Continuity: Linking reservation preferences directly with front-office and housekeeping teams for personalized Saudi hospitality.'
+        ],
+        bulletsAr: [
+          'توزيع فوري متعدد القنوات: مزامنة توافر الغرف لحظياً عبر مكاتب الحجز المباشر ووكالات السفر وشبكات التوزيع العالمية.',
+          'إدارة ذكية للعوائد والمواسم: تحسين نسب الإشغال ومتوسط السعر اليومي خلال مواسم رمضان والحج والعمرة والإجازات الساحلية.',
+          'مكاتب مخصصة للمجموعات والشركات: معالجة سريعة لقوائم التسكين لبعثات العمرة والوفود الرسمية وفعاليات الأعمال.',
+          'تكامل تجربة الضيف: ربط تفضيلات الحجز مباشرة بفرق الاستقبال والتدبير الفندقي لتقديم ضيافة سعودية مخصصة.'
+        ],
+        imageIndex: 2,
+        includeQuote: true,
+        includeInlineCta: true
+      },
+      {
+        h2En: 'Connecting Technology With On-the-Ground Operational Excellence',
+        h2Ar: 'ربط الحلول التقنية بالتميز التشغيلي الميداني في فنادق المملكة',
+        paragraphs: [
+          {
+            en: 'Technology alone is never a substitute for attentive human service—instead, it empowers hospitality teams to focus on guests. You can see this synergy in action across our ',
+            ar: 'لا تُعد التقنية بديلاً عن العناية البشرية المباشرة بالضيف، بل هي أداة تمكّن فرق الضيافة من التركيز على راحة الزوار. ويظهر هذا التكامل بوضوح في ',
+            linkTextEn: 'flagship Jar Al Bait Hotel in Al Aziziyah, Makkah',
+            linkTextAr: 'فندق جار البيت الرائد بحي العزيزية في مكة المكرمة',
+            linkHref: '/en/media-center/makkah-hotel-accommodation-al-aziziyah-jar-al-bait/',
+            afterEn: ', as well as in our broader framework for ',
+            afterAr: '، وكذلك ضمن منهجيتنا الشاملة في ',
+            link2TextEn: 'hotel management and operational excellence under Saudi Vision 2030',
+            link2TextAr: 'إدارة وتشغيل الفنادق وفق مستهدفات رؤية السعودية 2030',
+            link2Href: '/en/media-center/hotel-management-operations-saudi-vision-2030/',
+            after2En: '.',
+            after2Ar: '.'
+          },
+          {
+            en: 'For hotel owners seeking to plug their property into our central reservation and commercial engine, explore our ',
+            ar: 'ولملاك الفنادق الراغبين في ربط منشآتهم بمنظومة الحجوزات المركزية والتسويق الفندقي لدينا، ندعوكم لاستكشاف ',
+            linkTextEn: 'marketing, reservations, and hotel partnership models',
+            linkTextAr: 'نماذج شراكات التسويق والحجوزات والتشغيل الفندقي',
+            linkHref: '/en/investment/',
+            afterEn: ' or ',
+            afterAr: ' أو ',
+            link2TextEn: 'contact our reservations and commercial team',
+            link2TextAr: 'التواصل مع فريق الحجوزات والإدارة التجارية لدينا',
+            link2Href: '/en/contact-us/',
+            after2En: ' today.',
+            after2Ar: ' اليوم.'
+          }
+        ]
+      }
+    ]
+  },
+  {
     slug: 'makkah-hotel-accommodation-al-aziziyah-jar-al-bait',
     route: '/en/media-center/makkah-hotel-accommodation-al-aziziyah-jar-al-bait/',
     file: 'en__media-center__makkah-hotel-accommodation-al-aziziyah-jar-al-bait.html',
@@ -10,8 +150,8 @@ export const BLOGS = [
     categoryAr: 'ضيافة مكة المكرمة',
     locationEn: 'Makkah Al Mukarramah, Saudi Arabia',
     locationAr: 'مكة المكرمة، المملكة العربية السعودية',
-    dateEn: '24 October 2026',
-    dateAr: '24 أكتوبر 2026',
+    dateEn: '27 October 2026',
+    dateAr: '27 أكتوبر 2026',
     readTimeEn: '6 Min Read',
     readTimeAr: '6 دقائق للقراءة',
     badgesEn: ['Hotels in Makkah', 'Al Aziziyah Accommodation', 'Umrah & Hajj Stays'],
@@ -172,8 +312,8 @@ export const BLOGS = [
     categoryAr: 'البحر الأحمر والقنفذة',
     locationEn: 'Al Qunfudhah, Makkah Province, KSA',
     locationAr: 'القنفذة، منطقة مكة المكرمة، السعودية',
-    dateEn: '18 October 2026',
-    dateAr: '18 أكتوبر 2026',
+    dateEn: '21 October 2026',
+    dateAr: '21 أكتوبر 2026',
     readTimeEn: '5 Min Read',
     readTimeAr: '5 دقائق للقراءة',
     badgesEn: ['Al Qunfudhah Hotels', 'Red Sea Coast KSA', 'Family & Business Stays'],
@@ -321,8 +461,8 @@ export const BLOGS = [
     categoryAr: 'التشغيل الفندقي ورؤية 2030',
     locationEn: 'Kingdom of Saudi Arabia',
     locationAr: 'المملكة العربية السعودية',
-    dateEn: '12 October 2026',
-    dateAr: '12 أكتوبر 2026',
+    dateEn: '15 October 2026',
+    dateAr: '15 أكتوبر 2026',
     readTimeEn: '7 Min Read',
     readTimeAr: '7 دقائق للقراءة',
     badgesEn: ['Hotel Management KSA', 'Saudi Vision 2030', 'Operational Excellence'],
@@ -456,8 +596,8 @@ export const BLOGS = [
     categoryAr: 'خدمات العمرة وإقامة المجموعات',
     locationEn: 'Makkah & Kingdom of Saudi Arabia',
     locationAr: 'مكة المكرمة والمملكة العربية السعودية',
-    dateEn: '05 October 2026',
-    dateAr: '05 أكتوبر 2026',
+    dateEn: '09 October 2026',
+    dateAr: '09 أكتوبر 2026',
     readTimeEn: '6 Min Read',
     readTimeAr: '6 دقائق للقراءة',
     badgesEn: ['Umrah & Hajj Hospitality', 'Group Accommodation KSA', 'Pilgrim Services Makkah'],
@@ -591,8 +731,8 @@ export const BLOGS = [
     categoryAr: 'الاستثمار والشراكات الاستراتيجية',
     locationEn: 'Riyadh, Jeddah, Makkah & Al Qunfudhah, KSA',
     locationAr: 'الرياض، جدة، مكة المكرمة والقنفذة، السعودية',
-    dateEn: '28 September 2026',
-    dateAr: '28 سبتمبر 2026',
+    dateEn: '03 October 2026',
+    dateAr: '03 أكتوبر 2026',
     readTimeEn: '6 Min Read',
     readTimeAr: '6 دقائق للقراءة',
     badgesEn: ['Hospitality Investment KSA', 'Hotel Operating Models', 'Strategic Partnerships'],
@@ -1401,10 +1541,27 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
     await fs.writeFile('source/pages/en__media-center.html', renderMediaCenterPage(), 'utf8');
     console.log('Generated source/pages/en__media-center.html');
 
-    // 2. Write the 5 blog pages
+    // 2. Write the 6 blog pages and ensure they are registered in routes.json
+    const routes = JSON.parse(await fs.readFile('routes.json', 'utf8'));
     for (const blog of BLOGS) {
       await fs.writeFile('source/pages/' + blog.file, renderArticlePage(blog), 'utf8');
       console.log('Generated source/pages/' + blog.file);
+      let existing = routes.find((r) => r.localRoute === blog.route);
+      if (!existing) {
+        routes.push({
+          localRoute: blog.route,
+          file: blog.file,
+          title: blog.metaTitleEn,
+          description: blog.excerptEn,
+          bodyClass: 'page basicpage',
+          styles: [
+            '/assets/fddb1931-clientlib-base.lc-202609291724-lc.min.css',
+            '/assets/546bb7f6-clientlib-site.min.eb79e8521c820e7406aba0b899de6bbc.css',
+            '/assets/8f71aae5-clientlib-site.lc-202609291724-lc.min.css'
+          ]
+        });
+      }
     }
+    await fs.writeFile('routes.json', JSON.stringify(routes, null, 2) + '\n', 'utf8');
   }
 }
