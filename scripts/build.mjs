@@ -173,7 +173,7 @@ for (const r of routes.filter((r) => !r.redirectTo)) {
     arItem.find('a').attr('href', arRoute);
   });
 
-  localizeDomToArabic($ar);
+  localizeDomToArabic($ar, enRoute);
 
   const bodyAr = $ar.html();
   const { titleAr, descAr } = getArabicMeta(r);
