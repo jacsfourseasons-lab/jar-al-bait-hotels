@@ -1225,7 +1225,6 @@ function applyOfficialPdfArabicOverrides($, enRoute = '') {
     $('#title-8860717313').closest('.rsg-card__content').find('.rsg-tile-location-label').text('القنفذة');
     $('#title-8860717313 h3').text('فندق الجوهرة');
     $('#text-eaf4cc344a p').text('يستقبلك فندق الجوهرة في محافظة القنفذة بإقامة مريحة وخدمات تلبي احتياجات العائلات والمسافرين الباحثين عن الراحة والضيافة السعودية الأصيلة');
-    $('#button-441761369e .cmp-button__text').text('اكتشف الفندق');
 
     // Operational Track Record
     $('#text-6db3cc6ad1 p').text('إرث حافل في تشغيل الفنادق');
